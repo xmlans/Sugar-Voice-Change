@@ -1,0 +1,39 @@
+**End User License Agreement (EULA)**
+
+**Sugar Voice Change**
+
+_Last Updated: 03/04/2025_
+
+**1. Introduction**  
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and **Sugar Voice Change** ("Software"), developed and distributed by Star Dream Studio. By downloading, installing, or using this Software, you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
+
+**2. License Grant**  
+Subject to your compliance with this Agreement, the developer grants you a non-exclusive, non-transferable, revocable license to use **Sugar Voice Change** for personal or non-commercial use only.
+
+**3. Restrictions**  
+You agree not to:
+- Modify, reverse engineer, decompile, or disassemble the Software.
+- Distribute, sublicense, rent, lease, or sell the Software without written permission.
+- Use the Software for illegal or unauthorized purposes.
+- Remove or alter any proprietary notices within the Software.
+
+**4. Ownership**  
+All intellectual property rights in and to the Software remain the property of its original developers. This Agreement does not grant you any ownership rights.
+
+**5. Warranty Disclaimer**  
+The Software is provided "AS IS" without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. You use the Software at your own risk.
+
+**6. Limitation of Liability**  
+To the maximum extent permitted by law, in no event shall the developer be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Software.
+
+**7. Termination**  
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any terms. Upon termination, you must cease all use and delete all copies of the Software.
+
+**8. Governing Law**  
+This Agreement shall be governed by and construed in accordance with the laws of US. Any disputes arising from this Agreement shall be subject to the exclusive jurisdiction of the courts in US.
+
+**9. Contact Information**  
+For any questions regarding this Agreement, please contact: support@xmc.tw
+
+_By using the Software, you acknowledge that you have read and understood this Agreement and agree to its terms._
+
