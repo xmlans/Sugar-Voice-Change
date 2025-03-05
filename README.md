@@ -3,6 +3,7 @@
 基于 <a href="https://github.com/svc-develop-team/so-vits-svc">So-Vits-Svc</a> 项目，模型由兰酱训练，数据集不公开且模型已经完成训练<br>
 至少需要6GB以上显存的显卡，且推荐12GB显存或以上，so-vits-svc自带切片功能，显存少请减少切片时间避免爆显存！（如果你是转换一首歌的话）
 # 开始使用
+<b>整合包下载 <a href="https://drive.xmlans.com/s/GkSL">https://drive.xmlans.com/s/GkSL</a> </b>
 由于太多小白，兰酱直接打包一个整合包并内置Suger-Voice-Change模型，使用Suger-Voice-Change模型则证明您已同意EULA协议（见存储库）<br>
 点击启动webui.bat在你的本地浏览器运行可交互界面，所有模型请勾选带suger-voice-change模型（在下拉菜单选中） <br>
 虽然so-vits-svc是歌声转换，但自然可以用于实时变声，充分训练的so-vits-svc模型兰酱认为强于RVC变声器模型，请一并下载 <a href="https://github.com/w-okada/voice-changer">实时变声器，supported该库模型</a> 并使用suger-voice-change进行实时变声 <br>
